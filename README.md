@@ -9,4 +9,4 @@ This is a personal/public Pacman repository.
 ```ini
 [ungmrs-repo]
 SigLevel = Optional TrustAll
-Server = https://raw.githubusercontent.com/Un-Gmr/ungmrs-repo/main/repo
+Server = https://github.com/Un-Gmr/pacman-repo/releases/download/latest/
