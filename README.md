@@ -1,6 +1,6 @@
 # Ungmr's Pacman Repo
 
-This is a personal/public Pacman repository.
+This is a public Pacman repository where i host my code on
 
 ## How to use
 
